@@ -41,7 +41,7 @@ Bem-vindo ao E-commerce 1! Este é um projeto de comércio eletrônico simples c
 
 ## Instruções de Instalação:
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/e-commerce-projeto.git`
+1. Clone este repositório: `git clone https://github.com/rogerio-jose-gastao/e-commerce_one.git`
 2. Configure um servidor local (XAMPP, WAMP, MAMP, etc.).
 3. Importe o arquivo `banco.sql` para criar a estrutura da base de dados.
 4. Atualize as configurações de conexão no arquivo `config.php`.
