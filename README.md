@@ -38,6 +38,7 @@ Bem-vindo ao E-commerce 1! Este é um projeto de comércio eletrônico simples c
    - **`pages/`**: Páginas principais da aplicação.
    - **`admin/`**: Páginas e scripts relacionados à área administrativa.
    - **`utils/`**: Utilitários PHP reutilizáveis.
+   - **`database/`**: Codigo de base de dados.
 
 ## Instruções de Instalação:
 
