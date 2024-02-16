@@ -2,7 +2,7 @@
 
 ## Visão Geral:
 
-Bem-vindo ao E-commerce Projeto! Este é um projeto de comércio eletrônico simples construído com HTML, CSS, JavaScript e PHP. O objetivo é fornecer uma experiência de compra básica e funcionalidades essenciais para um site de e-commerce.
+Bem-vindo ao E-commerce 1! Este é um projeto de comércio eletrônico simples construído com HTML, CSS, JavaScript e PHP. O objetivo é fornecer uma experiência de compra básica e funcionalidades essenciais para um site de e-commerce.
 
 ## Funcionalidades Principais:
 
