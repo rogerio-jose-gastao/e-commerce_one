@@ -10,6 +10,7 @@
 |   |   |   |-- 📂 imagens
 |   |   |   |   |-- produto1.jpg
 |   |   |   |   |-- produto2.jpg
+|   |   |   |   |-- produto3.jpg
 |   |   |   |-- 📂 estilos
 |   |   |       |-- estilos.css
 |   |   |-- 📂 components
